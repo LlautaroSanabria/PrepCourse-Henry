@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Modulo 2 prueba repositorio henry
+Este es un repositorio de prueba de como llevar el repositorio a mi computadora 
